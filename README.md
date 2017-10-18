@@ -1,2 +1,3 @@
 # hello-world
-Test project
+
+Hi there! I have created this project to practice using GitHub.
